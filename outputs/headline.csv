@@ -1,0 +1,11 @@
+,headline
+Rows analysed,"1,100,000"
+A-SKUs share of revenue,80% from 50 SKUs
+Promo lift (raw units),+88.7%
+Promo lift (baseline-adjusted),+67.6%
+Median price elasticity (A-SKUs),-2.54
+Best forecast model,LightGBM (tuned)
+WAPE naive -> best,21.2% -> 9.3%
+MAE / RMSE / MAPE (best),61.7 / 93.9 / 9.6%
+Safety stock reduction vs naive,57.7%
+Stockout classifier (LightGBM) recall / precision,0.23 / 0.03

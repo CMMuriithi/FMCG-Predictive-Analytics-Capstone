@@ -1,0 +1,10 @@
+,step 7
+Best promo discount depth (profit),10% off
+Depths that lose profit,"20% off, 30% off"
+A-SKUs modelled,50
+A-SKU WAPE: naive -> LightGBM,21.7% -> 9.8%
+A-SKU MAE / MAPE (LightGBM),72.0 / 10.2%
+Safety-stock cash freed,"143,215 (55%)"
+Annual carrying-cost saving (25%),"35,804"
+Stock-on-hand vs stockout flag (rho),-0.000
+Sales on stockout days vs normal,-81.2%

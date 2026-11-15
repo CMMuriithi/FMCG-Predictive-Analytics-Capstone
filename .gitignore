@@ -1,0 +1,5 @@
+fmcg_sales_3years_1M_rows.csv
+*.parquet
+*.db
+__pycache__/
+.ipynb_checkpoints/
